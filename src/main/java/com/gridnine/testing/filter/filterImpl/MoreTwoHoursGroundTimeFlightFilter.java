@@ -1,4 +1,4 @@
-package com.gridnine.testing.filter.impl;
+package com.gridnine.testing.filter.filterImpl;
 
 import com.gridnine.testing.filter.FlightFilter;
 import com.gridnine.testing.model.Flight;
